@@ -1,0 +1,19 @@
+{
+  "name": "restful-api-typescript-",
+  "version": "1.0.0",
+  "description": "A restful API that uses typescrip and mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahHassan27/RESTful-API-TypeScript-.git"
+  },
+  "author": "Shah Hassan <s4h7hassan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahHassan27/RESTful-API-TypeScript-/issues"
+  },
+  "homepage": "https://github.com/ShahHassan27/RESTful-API-TypeScript-#readme"
+}
